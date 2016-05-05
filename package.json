@@ -47,14 +47,15 @@
   "contributors": [
     "Benjamin Lupton <b@lupton.cc> (https://balupton.com)",
     "Rob Loach <robloach@gmail.com> (http://robloach.net)",
-    "vsopvsop (https://github.com/vsopvsop)"
+    "vsopvsop (https://github.com/vsopvsop)",
+    "Sebastian Domagała (https://github.com/sdomagala)"
   ],
   "bugs": {
     "url": "https://github.com/docpad/docpad-plugin-less/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/docpad/docpad-plugin-less.git"
+    "url": "https://github.com/sdomagala/docpad-plugin-less.git"
   },
   "engines": {
     "node": ">=0.12",
